@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: mahesh8887/image-name:latest        
+        image: gopinadh1210/java-maven:1.4        
         ports:
         - containerPort: 8080        
         readinessProbe:

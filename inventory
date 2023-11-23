@@ -1,0 +1,2 @@
+[kubernetes]
+ 10.12.1.129     ansible_connection=ssh     ansible_user=root
